@@ -1,0 +1,204 @@
+	
+Data science
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Not to be confused with information science.
+Machine learning and
+data mining
+Kernel Machine.svg
+Problems
+[show]
+Supervised learning
+(classification • regression)
+[show]
+Clustering
+[show]
+Dimensionality reduction
+[show]
+Structured prediction
+[show]
+Anomaly detection
+[show]
+Artificial neural networks
+[show]
+Reinforcement learning
+[show]
+Theory
+[show]
+Machine-learning venues
+[show]
+Glossary of artificial intelligence
+[show]
+Related articles
+[show]
+
+    Portal-puzzle.svg Machine learning portal
+
+    vte
+
+Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured,[1][2] similar to data mining.
+
+Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.[3] It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science.
+
+Turing award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[4][5]
+
+In 2012, when Harvard Business Review called it "The Sexiest Job of the 21st Century",[6] the term "data science" became a buzzword. It is now often used interchangeably with earlier concepts like business analytics,[7] business intelligence, predictive modeling, and statistics. Even the suggestion that data science is sexy was paraphrasing Hans Rosling, featured in a 2011 BBC documentary with the quote, "Statistics is now the sexiest subject around."[8] Nate Silver referred to data science as a sexed up term for statistics.[9] In many cases, earlier approaches and solutions are now simply rebranded as "data science" to be more attractive, which can cause the term to become "dilute[d] beyond usefulness."[10] While many university programs now offer a data science degree, there exists no consensus on a definition or suitable curriculum contents.[7] To its discredit, however, many data-science and big-data projects fail to deliver useful results, often as a result of poor management and utilization of resources.[11][12][13][14]
+History
+
+The term "data science" has appeared in various contexts over the past thirty years but did not become an established term until recently. In an early usage, it was used as a substitute for computer science by Peter Naur in 1960. Naur later introduced the term "datalogy".[15] In 1974, Naur published Concise Survey of Computer Methods, which freely used the term data science in its survey of the contemporary data processing methods that are used in a wide range of applications.
+
+In 1996, members of the International Federation of Classification Societies (IFCS) met in Kobe for their biennial conference. Here, for the first time, the term data science is included in the title of the conference ("Data Science, classification, and related methods"),[16] after the term was introduced in a roundtable discussion by Chikio Hayashi.[3]
+
+In November 1997, C.F. Jeff Wu gave the inaugural lecture entitled "Statistics = Data Science?"[17] for his appointment to the H. C. Carver Professorship at the University of Michigan.[18] In this lecture, he characterized statistical work as a trilogy of data collection, data modeling and analysis, and decision making. In his conclusion, he initiated the modern, non-computer science, usage of the term "data science" and advocated that statistics be renamed data science and statisticians data scientists.[17] Later, he presented his lecture entitled "Statistics = Data Science?" as the first of his 1998 P.C. Mahalanobis Memorial Lectures.[19] These lectures honor Prasanta Chandra Mahalanobis, an Indian scientist and statistician and founder of the Indian Statistical Institute.
+
+In 2001, William S. Cleveland introduced data science as an independent discipline, extending the field of statistics to incorporate "advances in computing with data" in his article "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics," which was published in Volume 69, No. 1, of the April 2001 edition of the International Statistical Review / Revue Internationale de Statistique.[20] In his report, Cleveland establishes six technical areas which he believed to encompass the field of data science: multidisciplinary investigations, models and methods for data, computing with data, pedagogy, tool evaluation, and theory.
+
+In April 2002, the International Council for Science (ICSU): Committee on Data for Science and Technology (CODATA)[21] started the Data Science Journal,[22] a publication focused on issues such as the description of data systems, their publication on the internet, applications and legal issues.[23] Shortly thereafter, in January 2003, Columbia University began publishing The Journal of Data Science,[24] which provided a platform for all data workers to present their views and exchange ideas. The journal was largely devoted to the application of statistical methods and quantitative research. In 2005, The National Science Board published "Long-lived Digital Data Collections: Enabling Research and Education in the 21st Century" defining data scientists as "the information and computer scientists, database and software and programmers, disciplinary experts, curators and expert annotators, librarians, archivists, and others, who are crucial to the successful management of a digital data collection" whose primary activity is to "conduct creative inquiry and analysis."[25]
+
+Around 2007,[citation needed] Turing award winner Jim Gray envisioned "data-driven science" as a "fourth paradigm" of science that uses the computational analysis of large data as primary scientific method[4][5] and "to have a world in which all of the science literature is online, all of the science data is online, and they interoperate with each other."[26]
+
+In the 2012 Harvard Business Review article "Data Scientist: The Sexiest Job of the 21st Century",[6] DJ Patil claims to have coined this term in 2008 with Jeff Hammerbacher to define their jobs at LinkedIn and Facebook, respectively. He asserts that a data scientist is "a new breed", and that a "shortage of data scientists is becoming a serious constraint in some sectors", but describes a much more business-oriented role.
+
+In 2013, the IEEE Task Force on Data Science and Advanced Analytics[27] was launched. In 2013, the first "European Conference on Data Analysis (ECDA)" was organised in Luxembourg, establishing the European Association for Data Science (EuADS). The first international conference: IEEE International Conference on Data Science and Advanced Analytics was launched in 2014.[28] In 2014, General Assembly launched student-paid bootcamp and The Data Incubator launched a competitive free data science fellowship.[29] In 2014, the American Statistical Association section on Statistical Learning and Data Mining renamed its journal to "Statistical Analysis and Data Mining: The ASA Data Science Journal" and in 2016 changed its section name to "Statistical Learning and Data Science".[30] In 2015, the International Journal on Data Science and Analytics[31] was launched by Springer to publish original work on data science and big data analytics. In September 2015 the Gesellschaft für Klassifikation (GfKl) added to the name of the Society "Data Science Society" at the third ECDA conference at the University of Essex, Colchester, UK.
+Relationship to statistics
+
+"Data science" has recently become a popular term among business exeutives.[32] However, many critical academics and journalists see no distinction between data science and statistics. Writing in Forbes, Gil Press argues that data science is a buzzword without a clear definition and has simply replaced “business analytics” in contexts such as graduate degree programs.[7] In the question-and-answer section of his keynote address at the Joint Statistical Meetings of American Statistical Association, noted applied statistician Nate Silver said, “I think data-scientist is a sexed up term for a statistician....Statistics is a branch of science. Data scientist is slightly redundant in some way and people shouldn’t berate the term statistician.”[9] Similarly, in business sector, multiple researchers and analysts state that data scientists alone are far from being sufficient in granting companies a real competitive advantage[33] and consider data scientists as only one of the four greater job families companies require to leverage big data effectively, namely: data analysts, data scientists, big data developers and big data engineers.[34]
+
+On the other hand, responses to criticism are as numerous. In a 2014 Wall Street Journal article, Irving Wladawsky-Berger compares the data science enthusiasm with the dawn of computer science. He argues data science, like any other interdisciplinary field, employs methodologies and practices from across the academia and industry, but then it will morph them into a new discipline. He brings to attention the sharp criticisms computer science, now a well respected academic discipline, had to once face.[35] Likewise, NYU Stern's Vasant Dhar, as do many other academic proponents of data science,[35] argues more specifically in December 2013 that data science is different from the existing practice of data analysis across all disciplines, which focuses only on explaining data sets. Data science seeks actionable and consistent pattern for predictive uses.[1] This practical engineering goal takes data science beyond traditional analytics. Now the data in those disciplines and applied fields that lacked solid theories, like health science and social science, could be sought and utilized to generate powerful predictive models.[1]
+
+In an effort similar to Dhar's, Stanford professor David Donoho, in September 2015, takes the proposition further by rejecting three simplistic and misleading definitions of data science in lieu of criticisms.[36] First, for Donoho, data science does not equate to big data, in that the size of the data set is not a criterion to distinguish data science and statistics.[36] Second, data science is not defined by the computing skills of sorting big data sets, in that these skills are already generally used for analyses across all disciplines.[36] Third, data science is a heavily applied field where academic programs right now do not sufficiently prepare data scientists for the jobs, in that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program.[36][37] As a statistician, Donoho, following many in his field, champions the broadening of learning scope in the form of data science,[36] like John Chambers who urges statisticians to adopt an inclusive concept of learning from data,[38] or like William Cleveland who urges to prioritize extracting from data applicable predictive tools over explanatory theories.[20] Together, these statisticians envision an increasingly inclusive applied field that grows out of traditional statistics and beyond.
+
+For the future of data science, Donoho projects an ever-growing environment for open science where data sets used for academic publications are accessible to all researchers.[36] US National Institute of Health has already announced plans to enhance reproducibility and transparency of research data.[39] Other big journals are likewise following suit.[40][41] This way, the future of data science not only exceeds the boundary of statistical theories in scale and methodology, but data science will revolutionize current academia and research paradigms.[36] As Donoho concludes, "the scope and impact of data science will continue to expand enormously in coming decades as scientific data and data about science itself become ubiquitously available."[36]
+References
+
+Dhar, V. (2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499.
+Jeff Leek (2013-12-12). "The key word in "Data Science" is not Data, it is Science". Simply Statistics.
+Hayashi, Chikio (1998-01-01). "What is Data Science? Fundamental Concepts and a Heuristic Example". In Hayashi, Chikio; Yajima, Keiji; Bock, Hans-Hermann; Ohsumi, Noboru; Tanaka, Yutaka; Baba, Yasumasa. Data Science, Classification, and Related Methods. Studies in Classification, Data Analysis, and Knowledge Organization. Springer Japan. pp. 40–51. doi:10.1007/978-4-431-65950-1_3. ISBN 9784431702085.
+Stewart Tansley; Kristin Michele Tolle (2009). The Fourth Paradigm: Data-intensive Scientific Discovery. Microsoft Research. ISBN 978-0-9825442-0-4.
+Bell, G.; Hey, T.; Szalay, A. (2009). "COMPUTER SCIENCE: Beyond the Data Deluge". Science. 323 (5919): 1297–1298. doi:10.1126/science.1170411. ISSN 0036-8075. PMID 19265007.
+Davenport, Thomas H.; Patil, DJ (Oct 2012), Data Scientist: The Sexiest Job of the 21st Century, Harvard Business Review
+"Data Science: What's The Half-Life Of A Buzzword?". Forbes. 2013-08-19.
+Singer, Natasha (2011-04-02). "When the Data Struts Its Stuff". Retrieved 2018-09-01.
+"Nate Silver: What I need from statisticians". 23 Aug 2013.
+Warden, Pete (2011-05-09). "Why the term "data science" is flawed but useful". O'Reilly Radar. Retrieved 2018-05-20.
+"Are You Setting Your Data Scientists Up to Fail?". Harvard Business Review. 2018-01-25. Retrieved 2018-05-26.
+"70% of Big Data projects in UK fail to realise full potential". www.consultancy.uk. Retrieved 2018-05-26.
+"The Data Economy: Why do so many analytics projects fail? – Analytics Magazine". Analytics Magazine. 2014-07-07. Retrieved 2018-05-26.
+"Data Science: 4 Reasons Why Most Are Failing to Deliver". www.kdnuggets.com. Retrieved 2018-05-26.
+Naur, Peter (1 July 1966). "The science of datalogy". Communications of the ACM. 9 (7): 485. doi:10.1145/365719.366510.
+Press, Gil. "A Very Short History Of Data Science".
+Wu, C. F. J. (1997). "Statistics = Data Science?" (PDF). Retrieved 9 October 2014.
+"Identity of statistics in science examined". The University Records, 9 November 1997, The University of Michigan. Retrieved 12 August 2013.
+"P.C. Mahalanobis Memorial Lectures, 7th series". P.C. Mahalanobis Memorial Lectures, Indian Statistical Institute. Archived from the original on 29 October 2013. Retrieved 18 Jul 2017.
+Cleveland, W. S. (2001). Data science: an action plan for expanding the technical areas of the field of statistics. International Statistical Review / Revue Internationale de Statistique, 21–26
+International Council for Science: Committee on Data for Science and Technology. (2012, April). CODATA, The Committee on Data for Science and Technology. Retrieved from International Council for Science : Committee on Data for Science and Technology: http://www.codata.org/
+Data Science Journal. (2012, April). Available Volumes. Retrieved from Japan Science and Technology Information Aggregator, Electronic: http://www.jstage.jst.go.jp/browse/dsj/_vols Archived 3 April 2012 at the Wayback Machine
+Data Science Journal. (2002, April). Contents of Volume 1, Issue 1, April 2002. Retrieved from Japan Science and Technology Information Aggregator, Electronic: http://www.jstage.jst.go.jp/browse/dsj/1/0/_contents
+The Journal of Data Science. (2003, January). Contents of Volume 1, Issue 1, January 2003. Retrieved from http://www.jds-online.com/v1-1
+National Science Board. "Long-Lived Digital Data Collections Enabling Research and Education in the 21st Century". National Science Foundation. Retrieved 30 June 2013.
+Markoff, John (2009-12-14). "Essays Inspired by Microsoft's Jim Gray, Who Saw Science Paradigm Shift". The New York Times. ISSN 0362-4331. Retrieved 2018-04-26.
+"IEEE Task Force on Data Science and Advanced Analytics".
+"2014 IEEE International Conference on Data Science and Advanced Analytics". Archived from the original on 29 March 2017.
+"NY gets new bootcamp for data scientists: It's free, but harder to get into than Harvard". Venture Beat. Retrieved 2016-02-22.
+Talley, Jill (2016-06-01). "ASA Expands Scope, Outreach to Foster Growth, Collaboration in Data Science". AMSTATNEWS. American Statistical Association. Archived from the original on 2017-02-05. Retrieved 2017-02-04.
+"Journal on Data Science and Analytics".
+Darrow, Barb (May 21, 2015). "Data science is still white hot, but nothing lasts forever". Fortune. Retrieved November 20, 2017.
+Miller, Steven (2014-04-10). "Collaborative Approaches Needed to Close the Big Data Skills Gap". Journal of Organization Design. 3 (1): 26–30. doi:10.7146/jod.9823. ISSN 2245-408X.
+De Mauro, Andrea; Greco, Marco; Grimaldi, Michele; Ritala, Paavo (2018). "Human resources for Big Data professions: A systematic classification of job roles and required skill sets". Information Processing & Management. 54 (5): 807–817. doi:10.1016/j.ipm.2017.05.004.
+Wladawsky-Berger, Irving (May 2, 2014). "Why Do We Need Data Science When We've Had Statistics for Centuries?". The Wall Street Journal. Retrieved November 20, 2017.
+Donoho, David (September 2015). "50 Years of Data Science" (PDF). Based on a Talk at Tukey Centennial Workshop, Princeton NJ Sept 18 2015.
+Barlow, Mike (2013). The Culture of Big Data. O'Reilly Media, Inc.
+Chambers, John M. (1993-12-01). "Greater or lesser statistics: a choice for future research". Statistics and Computing. 3 (4): 182–184. doi:10.1007/BF00141776. ISSN 0960-3174.
+Collins, Francis S.; Tabak, Lawrence A. (2014-01-30). "NIH plans to enhance reproducibility". Nature. 505 (7485): 612–613. doi:10.1038/505612a. ISSN 0028-0836. PMC 4058759. PMID 24482835.
+McNutt, Marcia (2014-01-17). "Reproducibility". Science. 343 (6168): 229. doi:10.1126/science.1250475. ISSN 0036-8075. PMID 24436391.
+
+    Peng, Roger D. (2009-07-01). "Reproducible research and Biostatistics". Biostatistics. 10 (3): 405–408. doi:10.1093/biostatistics/kxp014. ISSN 1465-4644. PMID 19535325.
+
+Categories:
+
+    Information scienceComputer occupationsComputational fields of studyData analysis
+
+Navigation menu
+
+    Not logged in
+    Talk
+    Contributions
+    Create account
+    Log in
+
+    Article
+    Talk
+
+    Read
+    Edit
+    View history
+
+Search
+
+    Main page
+    Contents
+    Featured content
+    Current events
+    Random article
+    Donate to Wikipedia
+    Wikipedia store
+
+Interaction
+
+    Help
+    About Wikipedia
+    Community portal
+    Recent changes
+    Contact page
+
+Tools
+
+    What links here
+    Related changes
+    Upload file
+    Special pages
+    Permanent link
+    Page information
+    Wikidata item
+    Cite this page
+
+Print/export
+
+    Create a book
+    Download as PDF
+    Printable version
+
+In other projects
+
+    Wikimedia Commons
+
+Languages
+
+    العربية
+    Español
+    हिन्दी
+    Bahasa Indonesia
+    Bahasa Melayu
+    Português
+    Русский
+    தமிழ்
+    中文
+
+Edit links
+
+    This page was last edited on 10 March 2019, at 22:42 (UTC).
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Developers
+    Cookie statement
+    Mobile view
+
+    Wikimedia Foundation	
+    Powered by MediaWiki	
+
+
